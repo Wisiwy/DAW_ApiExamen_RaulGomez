@@ -1,0 +1,1 @@
+https://obsidian.rocks/how-to-use-the-minimal-theme-in-obsidian/ 

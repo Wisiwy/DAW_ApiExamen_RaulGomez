@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"af94824033464da9","x":-449,"y":-266,"width":209,"height":246,"type":"text","text":"Qyue es RArvel\n"},
+		{"id":"4aa265fe43c04391","type":"text","text":"#Menu\n [[01 Instalación]] \n [[03 Estructura de carpetas]]\n\n","x":140,"y":-240,"width":250,"height":322}
+	],
+	"edges":[
+		{"id":"9502067b8efc8a06","fromNode":"af94824033464da9","fromSide":"right","toNode":"4aa265fe43c04391","toSide":"left"}
+	]
+}
