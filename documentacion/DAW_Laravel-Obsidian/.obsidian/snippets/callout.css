@@ -1,0 +1,4 @@
+.callout[data-callout="info2"] {
+    --callout-color: 132 53 187;
+    --callout-icon: lucide-alert-circle;
+}

@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "4523beedc08213aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee40ef7ead2e9ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a38435d93b51de4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/05 API en Laravel/03 CRUD - Errores y Validaciones.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8097c74910803d84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00INBOX/CRUD Sucio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f2b05b975a65e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian- Como usarlo/Call outs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35764480ca55214a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/00 Herramientas y conceptos/Artisan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0cff696250b9ff3",
+    "type": "split",
+    "children": [
+      {
+        "id": "00717c7d2f9f3c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c963cfa10efff3de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8baeda46184a4e07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "artisan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8157038d20f03c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74271a823a823bf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49094d3d10e5004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5f1c5089395facc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00INBOX/CRUD Sucio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f31df83162f35ac9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00INBOX/CRUD Sucio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b5c6413044503eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "b8b91ccdea3225f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00INBOX/CRUD Sucio.md"
+              }
+            }
+          },
+          {
+            "id": "56e6ab0f90006b81",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 331.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8097c74910803d84",
+  "lastOpenFiles": [
+    "00INBOX/Nacho_Api-Tutorial.md",
+    "00INBOX/Api(2)-Marcos.md",
+    "00INBOX/Api-Nacho.md",
+    "00INBOX/CRUD Sucio.md",
+    "00INBOX/Marcos_CRUD-Laravel.md",
+    "Laravel/05 API en Laravel/03 CRUD - Errores y Validaciones.md",
+    "Laravel/05 API en Laravel/02 Formatear respuesta JSON.md",
+    "Laravel/05 API en Laravel/01 Getting started.md",
+    "Laravel/05 API en Laravel/00 ¿Qué es un API?.md",
+    "Laravel/04 CRUD/CRUD.md",
+    "Laravel/04 CRUD/Crear y poblar tablas..md",
+    "Laravel/03 Autentificación/Breeze (Autentificación).md",
+    "Laravel/03 Autentificación/01 Autentificación Laravel - React.md",
+    "Laravel/02 Componentes y Layouts/Tailwind, Node y Daisy.md",
+    "Laravel/02 Componentes y Layouts/Componentes.md",
+    "Laravel/Index - Laravel.md",
+    "Laravel/05 API en Laravel/API_REST_FULL.md",
+    "Laravel/04 CRUD/Untitled 1.md",
+    "Laravel/04 CRUD/Untitled.md",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240229092118.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240229091954.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240229091950.png",
+    "Laravel/00 Herramientas y conceptos/Artisan.md",
+    "Laravel/05 API en Laravel/05 Validaciones.md",
+    "api_examen (copy).7z",
+    "Obsidian- Como usarlo/Call outs.md",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240228211126.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240228210839.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240228210814.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240228205421.png",
+    "Laravel/05 API en Laravel/attachments/Pasted image 20240228201318.png",
+    "Laravel/00 Herramientas y conceptos/Postman.md",
+    "Laravel/00 Herramientas y conceptos/Docker.md",
+    "Laravel/05 API en Laravel/03 CRUD.md",
+    "Laravel/05 API en Laravel/02 Formatear JSON.md",
+    "Obsidian- Como usarlo/Untitled",
+    "Laravel/05 API en Laravel/attachments/API_REST_FULL.pdf",
+    "Laravel/00 Herramientas y conceptos/attachments/Pasted image 20240228131510.png",
+    "Laravel/00 Herramientas y conceptos/attachments/Pasted image 20240228131459.png",
+    "Laravel/00 Herramientas y conceptos/attachments",
+    "LARAVEL.canvas",
+    "Untitled.canvas",
+    "Laravel/05 API en Laravel/Untitled",
+    "Laravel/00 Herramientas y conceptos",
+    "Laravel/04 CRUD",
+    "Laravel/03 Autentificación",
+    "Laravel/02 Componentes y Layouts",
+    "Laravel/01 Getting Started",
+    "Que pasa tarjetas.canvas",
+    "Untitled 1.canvas"
+  ]
+}
